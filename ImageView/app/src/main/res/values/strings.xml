@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biodata App</string>
+    <string name="data_diri">Data Diri</string>
+    <string name="nama">Nama</string>
+    <string name="npm">NPM</string>
+    <string name="bidang_minat">Bidang Minat</string>
+</resources>
